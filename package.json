@@ -4,9 +4,13 @@
   "description": "A command line tool that moves blocks in slots",
   "license": "MIT",
   "bin": {
-    "outside": "bin/robo-arm"
+    "robo-arm": "bin/robo-arm"
   },
   "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patrickwhardy/robo-arm-cli"
+  },
   "devDependencies": {},
   "dependencies": {}
 }

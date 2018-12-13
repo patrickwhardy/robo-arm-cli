@@ -1,3 +1,5 @@
+const GameInstance = require('./lib/GameInstance')
+
 module.exports = () => {
-  console.log('Welcome to the outside!')
+  new GameInstance()
 }
