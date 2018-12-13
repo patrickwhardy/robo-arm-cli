@@ -1,0 +1,12 @@
+{
+  "name": "robo-arm-cli",
+  "version": "1.0.0",
+  "description": "A command line tool that moves blocks in slots",
+  "license": "MIT",
+  "bin": {
+    "outside": "bin/robo-arm"
+  },
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {}
+}
