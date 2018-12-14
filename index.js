@@ -1,6 +1,6 @@
 const GameInstance = require('./lib/GameInstance')
 
 module.exports = () => {
-  // GameInstance removed from memory on exit
+  // singleton GameInstance maintains state and is removed from memory on exit
   new GameInstance()
 }
