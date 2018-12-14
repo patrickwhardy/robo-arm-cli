@@ -8,7 +8,7 @@ To install, cd into root of the project and run the following:
 $ npm link
 ```
 
-The program can now be started from anywhere with the following:
+The program can now be run from anywhere with the following:
 
 ```
 $ robo-arm
